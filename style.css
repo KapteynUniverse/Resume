@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f9f3cc90;
+  color: #8eaccd;
+  font-family: "Futura", serif;
+}
+
+.banner {
+  background-color: black;
+}
+
+#Who-am-i > img {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+
+footer {
+  background-color: #d2e0fb;
+}
+
+.card {
+  background-color: #f9f3cc80;
+  border: 5px solid #8eaccd;
+}
+
+span {
+  color: red;
+}
+
+.Gamer {
+  height: 279px;
+}
